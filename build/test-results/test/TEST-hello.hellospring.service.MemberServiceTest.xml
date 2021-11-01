@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="hello.hellospring.service.MemberServiceTest" tests="1" skipped="0" failures="1" errors="0" timestamp="2021-11-01T10:06:42" hostname="DESKTOP-BMSRVN8" time="0.06">
+<testsuite name="hello.hellospring.service.MemberServiceTest" tests="1" skipped="0" failures="1" errors="0" timestamp="2021-11-01T12:15:51" hostname="DESKTOP-BMSRVN8" time="0.07">
   <properties/>
-  <testcase name="checkDuple()" classname="hello.hellospring.service.MemberServiceTest" time="0.06">
+  <testcase name="checkDuple()" classname="hello.hellospring.service.MemberServiceTest" time="0.07">
     <failure message="org.opentest4j.AssertionFailedError: &#13;&#10;expected: &quot;이미 존재하는 회원입니다.&quot;&#13;&#10;but was : &quot;이미 존재하는 이름입니다.&quot;" type="org.opentest4j.AssertionFailedError">org.opentest4j.AssertionFailedError: 
 expected: &quot;이미 존재하는 회원입니다.&quot;
 but was : &quot;이미 존재하는 이름입니다.&quot;
 	at java.base@11.0.13/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 	at java.base@11.0.13/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
 	at java.base@11.0.13/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
-	at app//hello.hellospring.service.MemberServiceTest.checkDuple(MemberServiceTest.java:52)
+	at app//hello.hellospring.service.MemberServiceTest.checkDuple(MemberServiceTest.java:68)
 	at java.base@11.0.13/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at java.base@11.0.13/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 	at java.base@11.0.13/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
